@@ -1,0 +1,5 @@
+Q#1. Create a variable of string and try to add a number to it.
+Q#2. use the type of operator to find the datatype of string in the last question.
+Q#3. Create a constant object in javaScript can you change to hold a number.
+Q#4. Try to add a new key to the constant object in problem 3 where you able to do it.
+Q#5. write a js programe to create a word-meaning dictonary of five words.
