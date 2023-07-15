@@ -1,3 +1,4 @@
+const prompt = require('prompt-sync')();
 //Answer of Q#1
 
 const studentsMarks={
@@ -35,11 +36,11 @@ for(let i in studentsMarks)
 console.log("Answer to Question # 3")
 let cn = 9
 let i 
-// while(i != cn)
-// {
-//     //i= prompt("Enter The Correct Number: ")
-// }
-// console.log("You have Enter the Correct Number")
+while(i != cn)
+{
+    i= prompt("Enter The Correct Number: ")
+}
+console.log("You have Enter the Correct Number")
 
 //Answer of Q#4
 console.log("answer to Question # 4")
