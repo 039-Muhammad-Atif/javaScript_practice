@@ -1,0 +1,4 @@
+Q#1. Write a program to print the marks of a students in an object using for loop.
+Q#2. write a program in Q.1 using for in loop.
+Q#3. Write a programe to print "Try again" until the users enters the correct number.
+Q#4. write a function to find a mean of 5 numbers.
