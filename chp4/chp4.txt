@@ -1,0 +1,7 @@
+Q#1. What will the following print in javaScript.
+            (console.log("har\"".length))
+Q#2. explore the includes, startwith and endwith function of string.
+Q#3. write a problem to convert a given string to lowercase.
+Q#4. Extract the amount of this string!
+            "Please give Rs 1000"
+Q#5. Try to change 4th character of a given string wher you able to do it.
