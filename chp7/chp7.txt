@@ -1,0 +1,15 @@
+Q#1. Create a navbar and change the color of it's first elment to red.
+
+Q#2. Create a table without tbody now use "view page source" button to check whether it has a 
+     tbody or not.
+
+Q#3. Create an element with three children, Now change the color of first and last elememts 
+     to green.
+
+Q#4. Write a javaScript code to change background of all <li> tags to cyan.
+
+Q#5. Whic of the following is used to look for the farthest ancestor that matchs a given css selector.
+        a. matchs
+        b. closest
+        c. containr
+        d. none of these
