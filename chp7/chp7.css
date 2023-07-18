@@ -1,0 +1,23 @@
+body{
+height: 100%;
+width: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+nav{
+    display: flex;
+    background: rgb(18 165 165);
+    padding-top:10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+nav li{
+    list-style: none;
+    padding-left: 30px;
+    color: rgb(255, 255, 255);
+}
