@@ -1,0 +1,14 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+#joke{
+    background: #c5abab;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
