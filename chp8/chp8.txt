@@ -1,0 +1,10 @@
+Q#1. Write a programe to show different Alerts when different buttons are clicked.
+
+Q#2. Create a website which is capable of storing bookmarks of your 
+     favorite website using href.
+
+Q#3. Repeat Q2 using event listeners.
+
+Q#4. Write a javaScript program to fetching contents of website(Every 5 Second).
+
+Q#5. Create a glowing bulb effect using classList toggle method in javaScript.
