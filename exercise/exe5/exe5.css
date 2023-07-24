@@ -2,7 +2,7 @@ body{
     width: 100%;
     height: 100%;
     background: rgb(34, 39, 39);
-    color: white;
+    color: rgb(6, 195, 6);
 }
 *{
     margin: 0px;
@@ -15,27 +15,26 @@ body{
     display: flex;
     width: 100%;
     /* background: yellowgreen; */
+    color: white;
     justify-content: center;
-    margin-top: 24px;
-    font-size: 40px;
+    margin-top: 16px;
+    font-size: 26px;
 }
 #promise1{
     display: flex;
     width: 100%;
     /* background: yellowgreen; */
     text-align: center;
-    margin-top: 30px;
-    margin-bottom: 10px;
+    /* justify-content: center; */
     /* padding-left: 30px; */
-    font-size: 22px;
+    font-size: 20px;
 }
 #promise2{
     display: flex;
     width: 100%;
     /* background: yellowgreen; */
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-top: 10px;
     /* padding-left: 30px; */
     font-size: 22px;
 }
@@ -44,8 +43,6 @@ body{
     width: 100%;
     /* background: yellowgreen; */
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 10px;
     /* padding-left: 30px; */
     font-size: 22px;
 }
@@ -54,8 +51,7 @@ body{
     width: 100%;
     /* background: yellowgreen; */
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-top: 10px;
     /* padding-left: 30px; */
     font-size: 22px;
 }
