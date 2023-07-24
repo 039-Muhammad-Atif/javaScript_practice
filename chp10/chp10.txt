@@ -1,0 +1,7 @@
+Q#1. Use a free Api from the internet feed your app with live data.
+
+Q#2. Create a note Saving App which store your note to localStorage.
+
+Q#3. Repeat the last question & fetch the note which was saved.
+
+Q#3. Delet the note in the previous Question.
