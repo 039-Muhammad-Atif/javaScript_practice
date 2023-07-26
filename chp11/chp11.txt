@@ -1,0 +1,11 @@
+Q#1. Create a Javascript class to create a complex number. create a constructor
+     to set the real and complex parts.
+
+Q#2. Write a methd to add two complex numbers in the above class.
+
+Q#3. Create a class Student from a class human override a method $ see changes.
+
+Q#4. See if Student is an istance of Human using instanceof key words.
+
+Q#5. Using getter and setter to set and get the real and imaginary parts 
+     of the complex number.
