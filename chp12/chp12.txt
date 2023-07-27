@@ -1,0 +1,12 @@
+Q#1. Write a Javascript programe to print the following after 2 second delay
+        a. Hello
+        b. World
+
+Q#2. Write a javaScript programe to find average of number 
+     in an array using Spread Syntax.
+
+Q#3. Write a javaScript function which resolve a promise after n seconds
+     the function take n as a parameter. use an IIFE to execute
+     the function with differend values of n.
+
+Q#4. Write a simple interest Calculator using Javascript.
